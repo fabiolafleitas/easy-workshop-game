@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.imgBar {
+  height: 60px;
+  width: 60px;
+  margin-right: 10px;
+}
+
+.bar {
+  display: flex;
+  width: 100%;
+  /* outline: 3px solid black;
+  outline-offset: 2px; */
+}
+
+.bar div {
+  flex-shrink: 1;
+  flex-grow: 1;
+  border: 5px solid black;
+}
+
+.redFill {
+  background-color: #ff2155;
+}
+
+.cyanFill {
+  background-color: #00ffff;
+}
+
+.empty {
+  background-color: #ffffff;
+  transition: background-color 0.3s linear;
+}

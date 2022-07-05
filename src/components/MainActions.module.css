@@ -1,0 +1,16 @@
+.mainActionContainer {
+  width: 100%;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.button img {
+  display: inline-block;
+  height: 60px;
+  width: auto;
+}
