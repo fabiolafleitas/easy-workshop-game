@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/easy-workshop-game/static/css/main.3059f478.css",
+    "main.js": "/easy-workshop-game/static/js/main.acffb333.js",
+    "static/js/787.4ae0fe43.chunk.js": "/easy-workshop-game/static/js/787.4ae0fe43.chunk.js",
+    "index.html": "/easy-workshop-game/index.html",
+    "main.3059f478.css.map": "/easy-workshop-game/static/css/main.3059f478.css.map",
+    "main.acffb333.js.map": "/easy-workshop-game/static/js/main.acffb333.js.map",
+    "787.4ae0fe43.chunk.js.map": "/easy-workshop-game/static/js/787.4ae0fe43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3059f478.css",
+    "static/js/main.acffb333.js"
+  ]
+}
