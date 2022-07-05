@@ -8,9 +8,12 @@ use a button to decrease the health and lives of a character in a imaginary game
 This example is created for the FE Testing Workshop happening on 07/08.
 
 
+## 🚀Demo
+Try the app: [Super Easy Game for Testing](https://fabiolafleitas.github.io/easy-workshop-game/index)
+
 ## 🛠️Installation Steps
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 1. Clone the repository
 `git clone https://github.com/fabiolafleitas/easy-workshop-game.git`
